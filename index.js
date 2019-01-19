@@ -4,6 +4,8 @@ function myAnimal(animal) {
   return animal;
 }
 
+animal = 'cat';
+
 function yourAnimal(animal) {
   // How can we make sure that this function
   // and the above function both pass?
